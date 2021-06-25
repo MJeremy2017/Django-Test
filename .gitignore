@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .idea
 admin/.mysqldata
+main/.mysqldata
 
 # C extensions
 *.so
