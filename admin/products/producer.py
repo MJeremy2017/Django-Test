@@ -1,6 +1,6 @@
 import pika, json
 
-params = pika.URLParameters()
+params = pika.URLParameters('')
 
 connection = pika.BlockingConnection(params)
 
